@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Isidora";
+    src: local("Isidora Light"), local("Isidora-Light"),
+      url("fonts/Isidora-Light.woff2") format("woff2");
+    unicode-range: U+000-5FF;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Isidora";
+    src: local("Isidora Medium"), local("Isidora-Medium"),
+      url("fonts/Isidora-Medium.woff2") format("woff2");
+    unicode-range: U+000-5FF;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Isidora";
+    src: local("Isidora Bold"), local("Isidora-Bold"),
+      url("fonts/Isidora-Bold.woff2") format("woff2");
+    unicode-range: U+000-5FF;
+    font-weight: 700;
+    font-style: bold;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "icomoon";
+    src: url("ostx_files/icomoon2.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "icomoon";
+    src: url("ostx_files/icomoon.eot");
+    src: url("ostx_files/icomoon.eot") format("embedded-opentype"),
+      url("ostx_files/icomoon.ttf") format("truetype"),
+      url("ostx_files/icomoon.woff") format("woff"),
+      url("ostx_files/icomoon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
